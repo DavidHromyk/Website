@@ -107,8 +107,8 @@ hr {
 }
 
 .profile-pic {
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .footer-link {
@@ -149,10 +149,6 @@ hr {
   text-decoration: none;
   display: inline-block;
   cursor: pointer;
-  text-align: center;
-  position: relative;
-  bottom: 60px;
-  left: 175px;
 }
 
 .btn:hover {
@@ -187,10 +183,6 @@ hr {
   text-decoration: none;
   display: inline-block;
   cursor: pointer;
-  text-align: center;
-  position: relative;
-  right: 185px;
-  bottom: 60px;
 }
 
 .btn-support:hover {
