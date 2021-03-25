@@ -34,11 +34,7 @@ p {
   width: 50%;
   margin: 100px auto 100px auto;
   line-height: 2;
-  color: #40514E;
-
-  
-  ;
-
+  color: #40514e;
 }
 
 a {
@@ -62,7 +58,7 @@ hr {
 }
 
 .middle-container {
-    margin: 100px 0 100px 0;
+  margin: 100px 0 100px 0;
 }
 
 .bottom-container {
@@ -71,7 +67,7 @@ hr {
 }
 
 .skill-row {
-  width: 50%;
+  width: 80%;
   margin: 100px auto 100px auto;
   padding-top: -10px;
   text-align: left;
@@ -99,11 +95,10 @@ hr {
 
 .podcast-img {
   width: 150px;
-  float: right;
-  margin-left: 50px;
+  float: left;
+
   position: relative;
-  right: 100px;
-  bottom: 80px;
+  left: 40px;
 }
 
 .profile-pic {
@@ -122,13 +117,14 @@ hr {
 .p1 {
   position: relative;
   top: 80px;
-  left: 55px;
+  left: 50px;
 }
 
 .p2 {
   position: relative;
-  top: 80px;
-  left: 235px;
+  top: 70px;
+  right: -80px;
+  display: inline-block;
 }
 
 .btn {
@@ -202,7 +198,7 @@ hr {
 .contact-me {
   padding-top: 60px;
   width: 40%;
-  margin: 40px auto 60px ;
+  margin: 40px auto 60px;
 }
 
 .closing-statement {
@@ -213,5 +209,5 @@ hr {
 .intro {
   width: 40%;
   padding-top: -10px;
-  margin: 40px auto 60px ;
+  margin: 40px auto 60px;
 }
