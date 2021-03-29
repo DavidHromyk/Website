@@ -1,5 +1,4 @@
 body {
-  text-align: center;
   font-family: "Merriweather", serif;
   margin: 0;
   padding: 0;
@@ -11,7 +10,7 @@ body {
 h1 {
   color: #bdecec;
   font-size: 5.625rem;
-  font-family: "Merriweather", serif;
+  font-family: "Sacramento", cursive;
   margin: 50px auto -10px auto;
 }
 
@@ -26,7 +25,7 @@ h2 {
 
 h3 {
   font-family: "Montserrat", sans-serif;
-  color: #41dde2;
+  color: #66bfbf;
 }
 
 p {
@@ -57,6 +56,7 @@ hr {
   padding-bottom: 300px;
   padding-left: 0;
   padding-right: 0;
+  margin: 0;
 }
 
 .middle-container {
