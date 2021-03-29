@@ -9,9 +9,9 @@ body {
 }
 
 h1 {
-  color: #66bfbf;
+  color: #bdecec;
   font-size: 5.625rem;
-  font-family: "Sacramento", cursive;
+  font-family: "Merriweather", serif;
   margin: 50px auto -10px auto;
 }
 
@@ -26,7 +26,7 @@ h2 {
 
 h3 {
   font-family: "Montserrat", sans-serif;
-  color: #11999e;
+  color: #41dde2;
 }
 
 p {
@@ -51,7 +51,7 @@ hr {
 }
 
 .top-container {
-  background-color: #e4f9f5;
+  background-color: #74807d;
   position: relative;
   padding-top: 100px;
   padding-bottom: 300px;
@@ -72,7 +72,6 @@ hr {
   width: 80%;
   margin: 100px auto 100px auto;
   padding-top: -10px;
-  text-align: left;
 }
 
 .top-cloud {
@@ -88,18 +87,13 @@ hr {
 
 .code-img {
   width: 150px;
-  float: left;
-  margin-right: 30px;
-  position: relative;
-  left: 50px;
 }
 
 .podcast-img {
   width: 150px;
-  float: left;
 
   position: relative;
-  left: 40px;
+
 }
 
 .profile-pic {
@@ -118,14 +112,12 @@ hr {
 .p1 {
   position: relative;
   top: 80px;
-  left: 50px;
+
 }
 
 .p2 {
   position: relative;
   top: 70px;
-  right: -80px;
-  display: inline-block;
 }
 
 .btn {
