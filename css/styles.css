@@ -69,9 +69,9 @@ hr {
 }
 
 .skill-row {
-  width: 80%;
   margin: 100px auto 100px auto;
-  padding-top: -10px;
+  padding-top: -20px;
+  padding-bottom: -30px;
 }
 
 .top-cloud {
@@ -200,7 +200,6 @@ hr {
 }
 
 .intro {
-  width: 40%;
   padding-top: -10px;
   margin: 40px auto 60px;
 }
