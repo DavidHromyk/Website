@@ -46,7 +46,6 @@ hr {
   border-top-style: dotted;
   border-width: 5px;
   width: 4%;
-  margin: 100px auto 100px auto;
 }
 
 .top-container {
@@ -93,7 +92,6 @@ hr {
   width: 150px;
 
   position: relative;
-
 }
 
 .profile-pic {
@@ -112,7 +110,6 @@ hr {
 .p1 {
   position: relative;
   top: 80px;
-
 }
 
 .p2 {
@@ -216,4 +213,14 @@ hr {
 
 .button-class {
   padding-top: 7rem;
+}
+
+.hr2 {
+  margin-bottom: 100px;
+}
+
+@media (max-width: 1028px) {
+  .bottom-cloud {
+    position: relative;
+  }
 }
